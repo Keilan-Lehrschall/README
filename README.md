@@ -2,7 +2,7 @@
 
 # Keilan Lehrschall
 
-##About me
+## About me
 I am a student at Richland High School interested in technology and computer science
 
 ## Skills
